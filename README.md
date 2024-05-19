@@ -30,6 +30,8 @@ Smart Loan Repayments is a Python-based tool designed to optimize the repayment 
 
 To install Smart Loan Repayments, ensure you have Python 3.9+ installed. Then, clone the repository and install the required dependencies.
 
+_It is recommended that you create a dedicated virtual environment for this/such setup_
+
 ```sh
 git clone https://github.com/kxzongoing/Smart_Loan_Repayments.git
 cd smart-loan-repayments
@@ -40,7 +42,7 @@ pip install -r requirements.txt
 
 After installing the dependencies, you can run the tool from the command line.
 
-    python main.py
+    streamlit run main.py
 
 ## Contributing
 
