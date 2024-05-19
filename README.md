@@ -34,7 +34,7 @@ _It is recommended that you create a dedicated virtual environment for this/such
 
 ```sh
 git clone https://github.com/kxzongoing/Smart_Loan_Repayments.git
-cd smart-loan-repayments
+cd Smart_Loan_Repayments
 pip install -r requirements.txt
 ```
 
