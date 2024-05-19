@@ -2,7 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python: 3.8+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/release/python-380/)
-[Website Link](https://smartloanrepayments.streamlit.app/)
+
+[Feature Website Link - Deployed on Streamlit Community Cloud](https://smartloanrepayments.streamlit.app/)
 
 ## Table of Contents
 
