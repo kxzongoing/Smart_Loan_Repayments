@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python: 3.8+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/release/python-380/)
+[Website Link](https://smartloanrepayments.streamlit.app/)
 
 ## Table of Contents
 
@@ -25,6 +26,10 @@ Smart Loan Repayments is a Python-based tool designed to optimize the repayment 
 - **Visualization**: Graphical representation of repayment schedules and interest savings.
 - **Customizable Parameters**: Users can input various parameters to tailor the repayment strategy to their specific needs.
 - **User-Friendly Interface**: Easy-to-use command-line interface.
+
+There is also a web version deployed on Streamlit Community Cloud if you would want to explore.!! Here is the link:
+
+https://smartloanrepayments.streamlit.app/
 
 ## Installation
 
