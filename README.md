@@ -62,5 +62,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions or comments, please contact:
 
-Your Name - kxzongoing@gmail.com
-GitHub: kxzongoing
+Email: kxzongoing@gmail.com
+
+GitHub UserName: kxzongoing
