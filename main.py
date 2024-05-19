@@ -5,7 +5,7 @@ import math
 
 st.set_page_config(layout="wide", initial_sidebar_state="expanded")
 
-st.title(":green[Mortgage Repayments Calculator]")
+st.title(":green[Smart Loan Repayments](https://github.com/kxzongoing/Smart_Loan_Repayments)")
 
 st.write("## :blue[Input Data]")
 col1, col2 = st.columns(2)
