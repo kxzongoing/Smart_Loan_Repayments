@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import math
 
-st.set_page_config(layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="Smart Loan Repayments", layout="wide", initial_sidebar_state="expanded")
 
 st.title(":green[Smart Loan Repayments]")
 
